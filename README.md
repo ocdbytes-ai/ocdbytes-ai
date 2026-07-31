@@ -23,7 +23,7 @@
 
 ```sh
 $ whoami
-> arun — experiments in <ml systems / inference / training>.
+> arun — experiments in ml systems / inference / training
 
 $ cat ~/.now
 → learning   : DL (and kind of LLMs)
