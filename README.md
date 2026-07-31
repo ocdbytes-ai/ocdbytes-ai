@@ -1,16 +1,35 @@
-## Hi there 👋
+# 初心忘るべからず
 
-<!--
-**ocdbytes-ai/ocdbytes-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```sh
+⠀⠀⢀⣤⣶⣾⣿⣿⣿⣶⣶⣐⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣔⢒⣛⣓⣲⢄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⣴⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣝⠛⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣷⣿⣿⣿⣿⡻⢿⣿⣷⠀⠀⠀⠀⠀⠀
+⠼⣿⣿⣿⣿⣿⣿⣷⣦⣼⣿⡿⣿⣆⢹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣧⣩⣿⣷⠀⠙⢿⡇⠀⠀⠀⠀⠀
+⠀⢿⣿⡿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢿⡆⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢜⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣇⠀⠀⠀⠀⠀
+⠀⠘⣿⣷⣿⣿⣿⣿⠻⣿⣿⢁⣀⣈⣷⡽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⣧⣼⣿⣿⣿⣿⡟⠀⠀⢸⡏⠀⠀⠀⠀⠀
+⠀⠀⠈⢻⣿⣿⣿⡟⠛⠉⠁⠀⠀⠚⠁⠁⣀⠀⢀⣀⣤⣤⣧⣄⠀⣄⠀⠀⠂⠀⠈⠛⠿⣿⣿⠋⠀⠀⣠⠞⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣇⣨⠿⠛⠛⠉⠉⠉⠛⠿⣇⠀⠀⠀⠀⠀⠀⠉⠉⠓⠋⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢿⣶⣖⠤⠀⠀⠀⠀⢀⣹⡏⠇⠀⠀⠀⣀⠀⢀⠔⠀⢀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡠⠊⡡⠒⣁⠔⢁⠠⠀⠀⠀⠀⠀⠀⠀⠉⢻⣷⣄⣀⣠⣴⡿⠛⠁⠀⢀⠴⠊⡠⠖⠁⡠⠖⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠐⠋⠐⠊⠀⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⢿⣿⣛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠊⠀⠐⠊⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢀⣣⣾⣷⡀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡴⠟⠛⠉⠉⠛⣷⣬⡑⠄⠈⠐⠈⠒⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠛⠉⠀⠀⠀⠀⠀⠀⠉⠈⠻⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⠀⠀⠀⠀⠀⠀⠀⠁⢀⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠆⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤
+```
 
-Here are some ideas to get you started:
+```sh
+$ whoami
+> arun — experiments in <ml systems / inference / training>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat ~/.now
+→ learning   : DL (and kind of LLMs)
+→ writing    : blog @ ocdbyt.es/blogs
+```
+
+#### [More general work | いろいろな仕事](https://github.com/ocdbytes)
+
+<sub>[blog](https://ocdbyt.es/blogs) · [x](https://x.com/ocdbytes_ai) · [email](mailto:arunjangra1001@gmail.com)</sub>
